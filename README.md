@@ -1,4 +1,4 @@
-﻿### Todo List app in HTML, CSS & JavaScript
+﻿# Todo List app in HTML, CSS & JavaScript
  
  ## Steps
 
